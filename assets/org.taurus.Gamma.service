@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.taurus.Gamma
+Exec=@out@/bin/taurus-gamma

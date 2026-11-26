@@ -1,0 +1,16 @@
+/target
+AGENTS.md
+CLAUDE.md
+
+# AI agent tooling
+.claude/
+.agents/
+
+# Misc
+.direnv/
+*.log
+target/
+stage/
+*.bin
+taurus-audio
+eval

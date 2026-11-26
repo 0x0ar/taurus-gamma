@@ -1,0 +1,8 @@
+taurus-gamma
+
+Copyright (C) 2026 0x0ar
+
+This program is a fork of serpantinum-gamma (https://github.com/ilyamiro/serpantinum-gamma),
+Copyright (C) Illia Miroshnichenko, released under the GNU Affero General Public
+License version 3 or (at your option) any later version. It was renamed and
+modified for the Taurus shell. The license text is in the LICENSE file.
